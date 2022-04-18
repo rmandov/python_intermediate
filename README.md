@@ -1,2 +1,2 @@
 # python_intermediate
-its a test, im learning about python intermediate... ;)
+its like a notebook for my notes and ideas, im learning about python intermediate... ;)
